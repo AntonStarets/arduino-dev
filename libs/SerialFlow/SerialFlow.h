@@ -12,7 +12,7 @@
 
 // uncomment desired library
 //#include <FastSerial.h>
-//#include <RF24.h>
+#include <RF24.h>
 #include <HardwareSerial.h>
 
 #define MAX_PACKET_SIZE 8
